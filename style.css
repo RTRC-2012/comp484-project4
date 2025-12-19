@@ -12,7 +12,7 @@ body {
   background-size: cover;
 }
 
-.container {
+.gamebox {
   display: flex;
   flex-direction: column;
   height: 98vh;
@@ -52,7 +52,7 @@ h1 {
 }
 
 #score {
-  font-size: 16px;
+  font-size: 18px;
 }
 
 .feedback-correct {
